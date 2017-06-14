@@ -1,5 +1,3 @@
-
-
 /* ----Start Stylesheet---- */
 
 /* ---- General Style---- */
@@ -51,7 +49,6 @@ header.blete-page-header{
 	font-size:0;
 	overflow:hidden;
 }
-/* ------ Typography Style----- */
 h1,h2,h3,h4,h5,h6{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -120,7 +117,6 @@ a:active{
 	text-align: center;
 }
 
-/* ----- Button Style------*/
 .blete-button-solid{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
@@ -237,7 +233,6 @@ a:active{
 	width: 100%;
 	background-size: 100%;
 }
-/* ----- Icon Style ----- */
 .blete-blurb-icon-only{
 	margin-bottom: 50px;
 }
@@ -308,7 +303,6 @@ a:active{
 	text-align: center;
 }
 
-/* ---- icon Square ------ */
 .blete-blurb-icon-left-square{
 	overflow: hidden;
 	margin-bottom: 50px;
@@ -373,7 +367,6 @@ a:active{
 }
 
 
-/* ------ Section Home Style ------ */
 .blete-section-wrapper{
 	padding: 120px 0;
 	overflow: hidden;
@@ -415,7 +408,6 @@ a:active{
 	font-family: 'Raleway', sans-serif;
 }
 
-/* ------ Parallax Section Style-----*/
 .blete-parallax-overlay{
 	width: 100%;
 	height: 100%;
@@ -450,7 +442,6 @@ a:active{
 
 
 
-/* ----- Call To Action ------ */
 .blete-cta-1{
 	background-color: #28292e;
 	padding: 60px 0;
@@ -492,7 +483,6 @@ a:active{
 }
 
 
-/* ----- Menus Style ---- */
 .blete-main-menu{
     background-color: #2C353D;
     background-color: transparent;
@@ -543,7 +533,6 @@ header.blete-page-header .blete-main-menu{
 	background-color: transparent;
 }
 
-/* ------ Minified Menu ------ */
 .blete-main-menu.minified{
 	background-color: #1f2223;
 	padding: 0;
@@ -556,7 +545,6 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 
-/* ----- Slider Style ------ */
 .blete-slider{
 	overflow: hidden;
 	background-color: #28292e;
@@ -629,13 +617,11 @@ header.blete-page-header .blete-main-menu.minified{
 }	
 
 
-/* ----- Features Style ------- */
 .blete-features-section .container{
 	position: relative;
 	z-index: 1;
 }
 
-/*  ---- Team Style ----- */
 .blete-team-section{
 	overflow: hidden;
 }
@@ -715,7 +701,6 @@ header.blete-page-header .blete-main-menu.minified{
 
 
 
-/* ----- Skill Style ----- */
 .blete-our-skills{
 	
 }
@@ -765,7 +750,6 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 
-/* ------ Featured Work Style ------- */
 .blete-section-work {
 	background-color: #D3D7D7
 }
@@ -774,7 +758,6 @@ header.blete-page-header .blete-main-menu.minified{
 	position: relative;
 }
 
-/* ------ Portfolio Image Style ------ */
 .blete-portfolio-work-item img{
 	height: 100%;
 }
@@ -892,7 +875,6 @@ header.blete-page-header .blete-main-menu.minified{
 
 
 
-/* -------- Counter Style ------ */
 .blete-counter-item{
 	text-align: center;
 }
@@ -919,7 +901,6 @@ header.blete-page-header .blete-main-menu.minified{
 
 
 
-/* ----- Portfolio Style ------- */
 .blete-portfolio-section{
 	padding-top: 80px;
 }
@@ -948,7 +929,7 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 .blete-portfolio-filter-btn-group ul li a:hover{
-	color: #818181;
+	color: #373a3b;
 }
 
 .blete-portfolio-filter-btn-group ul li a.selected{
@@ -1098,7 +1079,6 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 
-/* -------- Custom Style ------- */
 
 .blete-custom-sec-text p{
 	margin-bottom: 20px;
@@ -1127,7 +1107,6 @@ header.blete-page-header .blete-main-menu.minified{
 	font-size: 14px;
 	margin-right: 10px;
 }
-/* --------- Testimonial Style --------- */
 .blete-testimonial-section{
 	position: relative;
 	padding: 80px 0;
@@ -1192,7 +1171,6 @@ header.blete-page-header .blete-main-menu.minified{
 	margin-bottom: 0
 }
 
-/* -------- Pricing Table Style ------- */
 .blete-pricing-section{
 	padding: 80px 0;
 }
@@ -1263,7 +1241,6 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 
-/* ---------- Client Style --------- */
 .blete-client-logo-carosal{
 	background-color: #28292e;
 	padding: 60px 0;
@@ -1278,8 +1255,7 @@ header.blete-page-header .blete-main-menu.minified{
 	max-height: 60px;
 }
 
-/* -------- Contact Style ------- */
-.
+
 .blete-contact-section h2{
 
 }
@@ -1368,7 +1344,6 @@ header.blete-page-header .blete-main-menu.minified{
 	background-color: #de5c39;
 }
 
-/* -------- Preloader Style ------- */
 .preloader {
     position: fixed;
     top: 0;
@@ -1383,10 +1358,10 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 .status {
-    width: 128px;
-    height: 128px;
+    width: 300px;
+    height: 55px;
     position: absolute;
-    left: 50%;
+    left: 46%;
     top: 50%;
     background-image: url(../images/preloader.gif);
     background-repeat: no-repeat;
@@ -1396,7 +1371,6 @@ header.blete-page-header .blete-main-menu.minified{
     margin: -70px 0 0 -70px;
 }
 
-/* -------- Slider Pagination ------- */
 .owl-theme .owl-controls {
   margin-top: 30px;
   text-align: center;
@@ -1418,7 +1392,6 @@ header.blete-page-header .blete-main-menu.minified{
 }
 
 
-/* --------- Footer Style ---------- */
 footer{
 	background-color: #151515;
 	padding: 60px 15px;
@@ -1488,7 +1461,6 @@ footer ul li a i{
 	padding: 10px;
 }
 
-/* --------- Parallax Section ----------- */
 
 .blete-features-section{
 	background-attachment: fixed;
